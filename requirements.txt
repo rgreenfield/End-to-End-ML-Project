@@ -6,4 +6,7 @@ ipykernel
 scikit-learn
 catboost
 xgboost
+pymongo
+dill
+dataclasses
 #-e . 
